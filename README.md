@@ -12,6 +12,11 @@ Install Dependencies:
 
 ox_lib
 > https://github.com/overextended/ox_lib.git
+qb-inventory
+> https://github.com/qbcore-framework/qb-inventory.git
+qb-target or ox_target
+> https://github.com/qbcore-framework/qb-target.git
+> https://github.com/overextended/ox_target.git
 
 📬 Contact Have questions, suggestions, or want to collaborate? Reach out to me via 
 Discord: > erkanpl
