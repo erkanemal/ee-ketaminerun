@@ -11,9 +11,9 @@ Clone the Repository:
 Install Dependencies:
 
 ox_lib
-> https://github.com/overextended/ox_lib.git
+> https://github.com/overextended/ox_lib.git <br>
 qb-inventory
-> https://github.com/qbcore-framework/qb-inventory.git
+> https://github.com/qbcore-framework/qb-inventory.git <br>
 qb-target or ox_target
 > https://github.com/qbcore-framework/qb-target.git
 > https://github.com/overextended/ox_target.git
