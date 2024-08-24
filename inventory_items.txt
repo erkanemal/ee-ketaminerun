@@ -1,0 +1,20 @@
+Define the Item in qb-core/shared/items.lua
+
+['ketamine'] = {
+    name = 'ketamine',
+    label = 'Ketamine',
+    weight = 100, -- Weight in grams, adjust as needed
+    type = 'item',
+    image = 'ketamine.png', -- The name of the image file
+    unique = false, -- Set to true if the item should be unique
+    useable = false, -- Set to true if the item can be used
+    shouldClose = false, -- Set to true if the inventory should close after using the item
+    combinable = nil, -- Leave as nil unless you want to make it combinable with other items
+    description = 'A dissociative anesthetic drug used medically and recreationally.'
+},
+
+
+
+Add the Item Image in qb-inventory/html/images/
+
+ee-ketaminerun/pictures/ketamine.png
