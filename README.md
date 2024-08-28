@@ -22,3 +22,6 @@ qb-target or ox_target
 
 📬 Contact Have questions, suggestions, or want to collaborate? Reach out to me via 
 Discord: > erkanpl
+
+
+PLEASE NOTE: THE SCRIPT IS NOT FINISHED YET!
